@@ -1,5 +1,6 @@
 #include <node.h>
 #include <string>
+#include <sys/wait.h>
 
 #ifdef _WIN32
 #include <windows.h>
